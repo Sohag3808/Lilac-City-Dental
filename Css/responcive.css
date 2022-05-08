@@ -1,0 +1,778 @@
+@media only screen and (max-width: 1366px){
+    .futter-section .left-column{
+        width: 40%;
+    }
+    .futter-section .right-column{
+        width: 60%;
+    }
+}
+@media only screen and (max-width: 1200px){
+    .band-image img {
+        width: 90px;
+        padding-left: 10px;
+        object-fit: cover;
+    }
+    .owl-nav .owl-next{
+        top: 93px;
+        right: 60px;
+    }
+    .owl-nav .owl-prev{
+        top: 93px;
+        left: 60px;
+    }
+}
+@media only screen and (max-width: 1100px){
+    .services-item .fast-column img {
+        width: 80px;
+    }
+    .contact-section .contact-headline h2{
+        font-size: 40px;
+    }
+    .oralpain-section h2{
+        font-size: 42px;
+    }
+    .oralpain-section p{
+        font-size: 17px;
+    }
+    .futter-section .right-column .hours {
+        margin-left: 35px;
+    }
+    .band-image {
+        padding-left: 60px;
+    }
+    .owl-nav .owl-next{
+        top: 93px;
+        right: 50px;
+    }
+    .owl-nav .owl-prev{
+        top: 93px;
+        left: 50px;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .top-header-section .left-column a{
+        padding-right: 10px;
+    }
+    .top-header-section .left-column .phone{
+        padding-left: 20px;
+    }
+    .top-header-section .left-column .mail{
+        padding-left: 20px;
+    }
+    .top-header-section .left-column .location{
+        padding-left: 20px;
+    }
+    .header-box h4{
+        font-size: 22px;
+    }
+    .services-item .fast-column h2{
+        font-size: 23px;
+    }
+    .services-item .fast-column img{
+        width: 70px;
+    }
+    .block-quotes-section .content-text::before{
+        bottom: 89px;
+        left: -20px;
+    }
+    .block-quotes-section .content-text::after{
+        top: 115px;
+        right: -12px;
+    }
+    .service-item-content .right-column{
+        margin-left: 0;
+    }
+    .service-item-content .left-column .bold{
+        font-size: 15px;
+    }
+    .service-item-content .left-column p{
+        font-size: 15px;
+    }
+    .service-item-section .right-column .bold {
+        font-size: 15px;
+    }
+    .service-item-content .right-column p{
+        font-size: 15px;
+    }
+    .oralpain-section h2{
+        font-size: 40px;
+    }
+    .oralpain-section p{
+        font-size: 16px;
+    }
+    .owl-nav .owl-next{
+        top: 93px;
+        right: 40px;
+    }
+    .owl-nav .owl-prev{
+        top: 93px;
+        left: 40px;
+    }
+  }
+  @media only screen and (max-width: 989px) {
+    .top-header-section .left-column a{
+        padding-right: 5px;
+    }
+    .top-header-section .left-column .phone{
+        padding-left: 15px;
+    }
+    .top-header-section .left-column .mail{
+        padding-left: 15px;
+    }
+    .top-header-section .left-column .location{
+        padding-left: 15px;
+    }
+    .female-doctor-section .left-side p{
+        width: 100%;
+    }
+    .male-doctor-section .right-side{
+        width: 100%;
+        text-align: center;
+    }
+    .header-section .left-column img{
+        width: 200px;
+    }
+    .header-section .header-button{
+        padding-top: 20px;
+    }
+    .header-button .call{
+        padding: 15px 20px;
+        font-size: 15px;
+    }
+    .header-button .schedule{
+    padding: 15px 28px;
+    font-size: 15px;
+    }
+    .header-box h4{
+        font-size: 20px;
+    }
+    .relaxed-column,.friendly-column,.latest-column{
+        padding: 40px 0;
+    }
+    .head-content .content-column h2{
+        font-size: 50px;
+    }
+    .services-section .services-headline h3{
+        font-size: 38px;
+    }
+    .services-item .fast-column h2{
+        font-size: 18px;
+    }
+    .services-item .fast-column img{
+        width: 60px;
+    }
+    .female-doctor-section .left-side h2{
+        font-size: 45px;
+    }
+    .female-doctor-section .left-side p{
+        font-size: 17px;
+    }
+    .male-doctor-section .right-side h2{
+        font-size: 45px;
+    }
+    .male-doctor-section .right-side p{
+        font-size: 17px;
+    }
+    .end-doctor-section h2{
+        font-size: 43px;
+    }
+    .end-doctor-section p{
+        font-size: 16px;
+    }
+    .contact-section .contact-headline h2{
+        font-size: 36px;
+    }
+    .contact-section .contact-headline p{
+        font-size: 16px;
+    }
+    .contact-section .circle-icon img{
+        width: 60px;
+    }
+    .contact-section .circle-icon{
+        width: 150px;
+        height: 150px;
+    }
+    .contact-section .circle-icon .notification{
+        width: 30px;
+        height: 30px;
+    }
+    .contact-section .phone h2{
+        font-size: 22px;
+    }
+    .contact-section .consult h2{
+        font-size: 22px;
+    }
+    .contact-section .get-plan h2{
+        font-size: 22px;
+    }
+    .oralpain-section h2{
+        font-size: 36px;
+    }
+    .about-section h2{
+        font-size: 36px;
+    }
+    .about-section p{
+        font-size: 15px;
+    }
+    .about-section .secont-text{
+        font-size: 15px;
+    }
+    .let-see-section .let-see-text h2{
+        font-size: 38px;
+    }
+    .futter-section .right-column .hours {
+        margin-left: 35px;
+    }
+    .band-image {
+        padding-left: 50px;
+    }
+    .band-image img {
+        width: 75px;
+        padding-left: 10px;
+        object-fit: cover;
+    }
+    .futter-section .sub-left h2 {
+        font-size: 19px;
+    }
+    .futter-section .sub-right .hours h2 {
+        font-size: 20;
+    }
+    .futter-section .sub-right .hours h2 {
+        font-size: 19px;
+    }
+    .sub-right .hours li {
+        font-size: 12px;
+      } 
+    .right-column .sub-left .futter-contact {
+        margin-left: 45px;
+    } 
+  }
+
+  @media only screen and (max-width: 800px) {
+    .top-header-section .left-column a{
+        display: block;
+        padding: 5px 0;
+    }
+    .top-header-section .left-column .phone{
+        padding-left: 35px;
+    }
+    .top-header-section .left-column .mail{
+        padding-left: 35px;
+    }
+    .top-header-section .left-column .location{
+        padding-left: 35px;
+    }
+    .top-header-section .right-column {
+        text-align: center;
+        padding: 32px 0;
+    }
+    .header-section .header-button{
+        padding-top: 15px;
+    }
+    .container{
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .header-box h4{
+        font-size: 20px;
+    }
+    .services-section .services-headline h3{
+        font-size: 36px;
+    }
+    .services-item .fast-column h2{
+        font-size: 18px;
+    }
+    .services-item .fast-column img{
+        width: 55px;
+    }
+    .female-doctor-section{
+        background-position: top;
+    }
+    .end-doctor-section h2{
+        font-size: 36px;
+    }
+    .end-doctor-section p{
+        font-size: 16px;
+    }
+
+    .contact-section .circle-icon img{
+        width: 50px;
+    }
+    .contact-section .circle-icon{
+        width: 130px;
+        height: 130px;
+    }
+    .contact-section .circle-icon .notification{
+        width: 28px;
+        height: 28px;
+    }
+    .block-headline h2{
+        font-size: 40px;
+    }
+    .let-see-section .let-see-text h2{
+        font-size: 36px;
+    }
+    .let-see-section .let-see-text p{
+        font-size: 15px;
+    }
+
+    .futter-section .left-column img {
+        width: 190px;
+    }
+    .futter-section .left-column {
+        width: 100%;
+        text-align: center;
+    }
+    .right-column .sub-left .futter-contact {
+        margin-left: 0px;
+      }
+    .futter-section .right-column .hours {
+        margin-left: 90px;
+    }
+    .band-image {
+        padding-left: 0px;
+        margin: 0 auto;
+    }
+    .band-image img {
+        width: 100px;
+        padding-left: 30px;
+        object-fit: cover;
+    }
+    .futter-section .sub-left h2 {
+        font-size: 22px;
+        padding-top: 20px;
+    }
+    .futter-section .sub-right .hours h2 {
+        font-size: 22px;
+        padding-top: 20px;
+    }
+
+    .futter-section .futter-content{
+        display: block;
+    }
+    .futter-section .left-column{
+        width: 100%;
+    }
+    .futter-section .right-column{
+        width: 100%;
+    }
+    .last-fitter-content{
+        display: block;
+    }
+    .futter-end .left-column{
+        width: 100%;
+    }
+    .futter-end .right-column{
+        width: 100%;
+        text-align: center;
+        padding-top: 10px;
+    }
+    .futter-end .left-column p{
+        text-align: center;
+        padding-bottom: 5px;
+    }
+    .futter-end .left-column .copyright{
+        margin-left: 30px;
+    }
+    .futter-section .left-column p {
+        width: 100%;
+        text-align: justify;
+    }
+    .owl-nav .owl-next{
+        top: 93px;
+        right: 30px;
+    }
+    .owl-nav .owl-prev{
+        top: 93px;
+        left: 30px;
+    }
+
+  }
+  @media only screen and (max-width: 768px){
+    .header-section{
+        background: url(../Image/Res-Banner-Img.png);
+    }   
+    .header-section .left-column img{
+        width: 250px;
+    }
+    .head-content .content-column{
+        padding-top: 60px;
+        padding-bottom: 110px;
+    }
+    .header-section .main-heading {
+        padding-top: 45px;
+    }
+    .header-section .left-column{
+        width: 100%;
+        text-align: center;
+    }
+    .header-section .header-button{
+        display: none;
+    }
+    .head-content .content-column{
+        text-align: center;
+    }
+    .head-content .content-column h2{
+        font-size: 48px;
+    }
+    .header-box{
+        display: block; 
+    }
+    .header-box h4 {
+        font-size: 23px;
+    }
+    .service-button {
+        margin-top: 40px;
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    .relaxed-column,.friendly-column,.latest-column{
+        padding: 30px 0;
+    }
+    .services-item .fast-column img{
+        width: 65px;
+    }
+    .services-item .fast-column h2{
+        font-size: 22px;
+    }
+    .services-item .fast-column p{
+        font-size: 14px;
+    }
+    .services-item{
+        display: block; 
+        text-align: center;
+    }
+    .services-item .fast-column{
+        margin-top: 15px;
+    }
+    .service-button{
+        text-align: center;
+    }
+    .female-doctor-section{
+        background-image: url(../Image/Res-Female-Img.png);
+        background-position:  right;
+    }
+    .female-doctor-section .left-side h2 {
+        padding-top: 60px;
+    }
+
+    .female-doctor-section .left-side{
+        text-align: center;
+    }
+    .female-doctor-section .left-side h2{
+        font-size: 36px;
+    }
+    .female-doctor-section .left-side h4{
+        font-size: 20px;
+    }
+    .female-doctor-section .left-side p{
+        font-size: 15px;
+    }
+    .male-doctor-section{
+        background-image: url(../Image/Res-Male-Img.png);
+        background-position: right;
+    }
+    .male-doctor-section .right-side h2 {
+        padding-top: 70px;
+    }
+    .male-doctor-section .male-doctor-button {
+        padding-bottom: 70px;
+    }
+    .male-doctor-section .right-side h2{
+        font-size: 36px;
+    }
+    .male-doctor-section .right-side h4{
+        font-size: 20px;
+    }
+    .male-doctor-section .right-side{
+        text-align: center;
+    }
+    .contact-section .contact-item{
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .contact-section .contact-button {
+        text-align: center;
+        padding-bottom: 60px;
+    }
+
+    .service-item-content{
+        display: block;
+    }
+    .service-item-content .left-column{
+        width: 100%;
+    }
+    .service-item-content .right-column{
+        width: 100%;
+        margin-left: 0;
+        padding-top: 10px;
+    }
+    .service-item-content .left-column .bold{
+        font-size: 14px;
+    }
+    .service-item-content .left-column p{
+        font-size: 14px;
+    }
+    .service-item-section .service-item-headline h2 {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    .service-item-content {
+        padding-bottom: 50px;
+    }
+    .service-item-section .right-column .bold {
+      font-size: 14px;
+    }
+    .service-item-section .right-column p{
+        font-size: 14px;
+      }
+      .owl-nav .owl-next{
+        top: 93px;
+        right: 15px;
+    }
+    .owl-nav .owl-prev{
+        top: 93px;
+        left: 15px;
+    }
+    .oralpain-button {
+        padding-bottom: 60px;
+    }
+    .about-section h2 {
+        padding-top: 50px;
+        padding-bottom: 12px;
+    }
+    .tv-internet-section .tv-internet-content {
+        padding-top: 50px;
+    }
+
+  }
+  @media only screen and (max-width: 640px){
+
+    .head-content .content-column h2{
+        font-size: 43px;
+    }
+    .end-doctor-section h2{
+        font-size: 36px;
+    }
+    .block-quotes-section .content-text::before{
+        top: 15px;
+    }
+    .block-quotes-section .content-text::after{
+        top: 165px;
+        right: -20px;
+    }
+    .service-item-section .service-item-headline h2{
+        font-size: 35px;
+    }
+    .oralpain-section p{
+        margin: 0;
+        padding: 10px 0;
+        font-size: 15px;
+    }
+    .futter-section .right-column .hours {
+        margin-left: 50px;
+    }
+    .band-image img {
+        width: 85px;
+        object-fit: cover;
+
+    }
+    .owl-nav .owl-next{
+        top: 93px;
+        right: 5px;
+    }
+    .owl-nav .owl-prev{
+        top: 93px;
+        left: 5px;
+    }
+
+  }
+  @media only screen and (max-width: 580px) {
+    .head-content .content-column h2{
+        font-size: 41px;
+    }
+    .header-content-button{
+        display: block;
+        width: 100%;
+    }
+    .header-content-button .schedule{
+        margin-top: 20px;
+        padding: 15px 46px;
+    }
+    .service-button{
+        display: block;
+        width: 100%;
+    }
+    .service-button .schedule{
+        margin-top: 20px;
+        padding: 15px 46px;
+    }
+    .header-box h4 {
+        font-size: 20px;
+      }
+    .male-doctor-section .right-side h2{
+        font-size: 36px;
+    }
+    .male-doctor-section .right-side p{
+        font-size: 15px;
+    }
+    .block-headline h2{
+        font-size: 30px;
+    }
+    .oralpain-button{
+        display: block;
+        width: 100%;
+    }
+    .oralpain-button .schedule{
+        margin-top: 20px;
+        padding: 15px 46px;
+    }
+    .let-see-button{
+        display: block;
+        width: 100%;
+    }
+    .let-see-button .schedule{
+        margin-top: 20px;
+        padding: 15px 46px;
+    }
+    .band-image{
+        display: block;
+    }
+    .band-image img {
+        width: 80px;
+        padding-left: 30px;
+        object-fit: cover;
+    }
+    .brek{
+        display: block;
+        padding: 5px 0;
+    }
+    .owl-nav .owl-next{
+        display: none;
+    }
+    .owl-nav .owl-prev{
+        display: none;
+    }
+    .female-doctor-section .female-doctor-button {
+        padding-bottom: 70px;
+      }
+  }
+
+
+  @media only screen and (max-width: 520px) {
+    .header-section{
+        background-position: top;
+    }
+    .top-header-section .right-column{
+        width: 100%;
+        text-align: left;
+        padding: 10px 35px;
+    }
+    .top-header-section{
+        display: none;
+    }
+    .relaxed-column,.friendly-column,.latest-column{
+        padding: 30px 0;
+    }
+    .header-box h4{
+        font-size: 20px;
+    }
+    .services-item .fast-column img{
+        width: 55px;
+    }
+    .contact-section .contact-headline p{
+        font-size: 15px;
+    }
+    .block-quotes-section .content-text::before{
+        top: 8px;
+    }
+    .block-quotes-section .content-text::after{
+        top: 180px;
+        right: -20px;
+    } 
+    .band-image{
+        margin-left: 35px;
+    }  
+    .band-image img{
+        width: 100px;
+        text-align: center;
+        padding-top: 10px;
+    }
+
+  }
+  @media only screen and (max-width: 460px) {
+    .container{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .top-header-section .left-column{ 
+        width: 100%;  
+    }
+    .container{
+       width: auto;
+       padding: 0 20px;
+    }
+    .female-doctor-section .left-side p{
+        font-size: 15px;
+    }
+    .male-doctor-section .right-side p{
+        font-size: 15px;
+    }
+    .block-quotes-section .content-text::before{
+        top: 8px;
+        left: -15px;
+    }
+    .block-quotes-section .content-text::after{
+        top: 230px;
+        right: -10px;
+    }
+
+
+  }
+  @media only screen and (max-width: 414px) {
+    .top-header-section .left-column{ 
+        width: 100%;  
+    }
+    .head-content .content-column h2{
+        font-size: 40px;
+    }
+  }
+  @media only screen and (max-width: 380px) {
+    .container{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .block-box::before{
+        left: 0;
+    }
+    .block-box::after{
+        right: 0;
+    }
+    .band-image{
+        margin-left: 5px;
+    }
+  }
+  @media only screen and (max-width: 320px) {
+    .services-section .services-headline h3{
+        font-size: 32px;
+    }
+    .futter-section .sub-left h2 {
+        font-size: 16px;
+    }
+    .sub-right .hours li {
+        font-size: 10px;
+    }
+    .sub-right .hours .bold {
+        font-size: 10px;
+    }
+    .futter-section .futter-location a{
+          font-size: 10px;
+    }
+    .futter-section .sub-right .hours h2 {
+        font-size: 16px;
+    }
+    .band-image img{
+        width: 60px;
+    }
+  }
